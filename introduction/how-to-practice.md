@@ -7,7 +7,7 @@ description: >-
 # How to practice
 
 {% hint style="info" %}
-Speed doesn't come doing everything faster. It comes from not doing things that don't matter.
+Speed doesn't come from doing everything faster. It comes from not doing things that don't matter.
 {% endhint %}
 
 ## Accept that you need to practice
