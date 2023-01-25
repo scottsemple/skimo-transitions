@@ -18,4 +18,4 @@
 
 ## More info on Skimo Racing
 
-* [The Skimo Survival Guide](https://www.skimosurvival.com)
+* [The Skimo Survival Guide (is coming soon)](https://www.skimosurvival.com)
