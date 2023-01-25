@@ -8,7 +8,7 @@ description: >-
 
 By the time you stop in a transition zone, you should be ready to act. Do not wait until you enter the transition zone to get organized. The more you can do beforehand, the faster the transition will be.
 
-**As you approach the transition zone:**
+As you approach the transition zone:
 
 <details>
 
