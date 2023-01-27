@@ -16,6 +16,10 @@
 * [Boot to Ski](what-to-practice/boot-to-ski.md)
 * [Exiting a transition zone](what-to-practice/exiting-a-transition-zone.md)
 
+***
+
+* [Why so much detail for something so short?](why-so-much-detail-for-something-so-short.md)
+
 ## More info on Skimo Racing
 
 * [The Skimo Survival Guide (is coming soon)](https://www.skimosurvival.com)

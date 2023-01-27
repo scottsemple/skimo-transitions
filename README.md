@@ -1,7 +1,7 @@
 ---
 description: >-
-  Do them right, and skimo transitions will be an insignificant portion of your
-  race. Do them wrong, and you'll lose to that guy you can't stand.
+  Do them well, and skimo transitions will be an insignificant portion of your
+  race. Do them poorly, and you'll lose to that guy you can't stand.
 coverY: 0
 ---
 
@@ -15,4 +15,5 @@ There are six main transition types.
 
 ## The Transitions
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong></strong></td><td></td><td><strong>Skin to Ski</strong></td><td><a href="what-to-practice/skin-to-ski.md">skin-to-ski.md</a></td></tr><tr><td></td><td></td><td><strong>Ski to Skin - Single</strong></td><td><a href="what-to-practice/ski-to-skin.md">ski-to-skin.md</a></td></tr><tr><td></td><td></td><td><strong>Ski to Skin - Double</strong></td><td><a href="what-to-practice/ski-to-skin-double.md">ski-to-skin-double.md</a></td></tr><tr><td></td><td></td><td><strong>Skin to Boot</strong></td><td><a href="what-to-practice/skin-to-boot.md">skin-to-boot.md</a></td></tr><tr><td></td><td></td><td><strong>Boot to Skin</strong></td><td><a href="what-to-practice/skin-to-boot.md">skin-to-boot.md</a></td></tr><tr><td></td><td></td><td><strong>Boot to Ski</strong></td><td><a href="what-to-practice/boot-to-ski.md">boot-to-ski.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Skin to Ski</strong></td><td></td><td><strong></strong></td><td><a href="what-to-practice/skin-to-ski.md">skin-to-ski.md</a></td><td><a href=".gitbook/assets/skin-to-ski-88s-stay-on-right-toe-landscape-crop.jpg">skin-to-ski-88s-stay-on-right-toe-landscape-crop.jpg</a></td></tr><tr><td><strong>Ski to Skin - Single</strong></td><td></td><td><strong></strong></td><td><a href="what-to-practice/ski-to-skin.md">ski-to-skin.md</a></td><td><a href=".gitbook/assets/ski-to-skin-079s-grab-first-skin.jpg">ski-to-skin-079s-grab-first-skin.jpg</a></td></tr><tr><td><strong>Ski to Skin - Double</strong></td><td></td><td><strong></strong></td><td><a href="what-to-practice/ski-to-skin-double.md">ski-to-skin-double.md</a></td><td><a href=".gitbook/assets/skin-to-ski-double-rip-18s2-rip-left-skin-grab-right-skin.jpg">skin-to-ski-double-rip-18s2-rip-left-skin-grab-right-skin.jpg</a></td></tr><tr><td><strong>Skin to Boot</strong></td><td></td><td><strong></strong></td><td><a href="what-to-practice/skin-to-boot.md">skin-to-boot.md</a></td><td><a href=".gitbook/assets/skin-to-boot-08s-grab-holster.jpg">skin-to-boot-08s-grab-holster.jpg</a></td></tr><tr><td><strong>Boot to Skin</strong></td><td></td><td><strong></strong></td><td><a href="what-to-practice/skin-to-boot.md">skin-to-boot.md</a></td><td><a href=".gitbook/assets/boot-to-skin-08s1-unroll-left-arm.jpg">boot-to-skin-08s1-unroll-left-arm.jpg</a></td></tr><tr><td><strong>Boot to Ski</strong></td><td></td><td><strong></strong></td><td><a href="what-to-practice/boot-to-ski.md">boot-to-ski.md</a></td><td><a href=".gitbook/assets/boot-to-skin-09s-skis-between-legs.jpg">boot-to-skin-09s-skis-between-legs.jpg</a></td></tr></tbody></table>
+
