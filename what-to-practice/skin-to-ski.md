@@ -6,9 +6,9 @@ description: >-
 
 # Skin to Ski
 
-Doing the skin-to-ski in less than 20 seconds is possible with enough practice with the right gear. Think of 40 seconds as a maximum.
+With enough practice with the right gear, a skin-to-ski transition can be done in less than 20 seconds. Think of 40 seconds as a maximum.
 
-## How to do a skin-to-ski transition in 20 seconds <a href="#how-to-do-a-skin-to-ski-transition-in-20-seconds" id="how-to-do-a-skin-to-ski-transition-in-20-seconds"></a>
+## How to do a skin-to-ski transition <a href="#how-to-do-a-skin-to-ski-transition-in-20-seconds" id="how-to-do-a-skin-to-ski-transition-in-20-seconds"></a>
 
 The following method is one of many. Different body mechanics and levels of flexibility may require some adjustments. Practice it a lot, and then make it your own.
 
