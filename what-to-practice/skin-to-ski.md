@@ -12,9 +12,9 @@ Doing the skin-to-ski in less than 20 seconds is possible with enough practice w
 
 The following method is one of many. Different body mechanics and levels of flexibility may require some adjustments. Practice it a lot, and then make it your own.
 
-### [Enter the transition zone](skin-to-ski.md#entering-a-transition-zone)
+### [Entering the transition zone](skin-to-ski.md#entering-a-transition-zone)
 
-Entering a transition zone is similar for every type. Review the entrance process as part of practicing each transition type.
+Entering a transition zone is similar for every type. Review [the entrance process](entering-a-transition-zone.md) as part of practicing each transition type.
 
 ### Ripping the first skin
 
@@ -140,6 +140,6 @@ Again, it comes back to time. Unlocking and relocking your toes with each transi
 18. **Fold the skin once.**
 19. #### Let the skin fold a second time as it goes into your suit. <a href="#19-let-the-skin-fold-a-second-time-as-it-goes-into-your-suit" id="19-let-the-skin-fold-a-second-time-as-it-goes-into-your-suit"></a>
 
-### [Exit the transition zone](exiting-a-transition-zone.md)
+### [Exiting the transition zone](exiting-a-transition-zone.md)
 
-Exiting a transition zone is similar for every type. Review the exit process as part of practicing each transition.
+Exiting a transition zone is similar for every type. Review [the exit process](exiting-a-transition-zone.md) as part of practicing each transition.
