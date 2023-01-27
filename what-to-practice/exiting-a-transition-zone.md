@@ -50,6 +50,6 @@ It's tempting to avoid using pole straps and just start skiing. But if you drop 
 
 Once you're out of the transition and have your poles in-hand, ski as fast as possible to the next transition. But be careful.
 
-Most races will have right-of-way rules with respect to non-racer traffic on the ski hill. (In North America, race organizers usually go by the Alpine Responsibility Code.) You have to respect these rules and the safety of others without giving up unnecessary seconds on the descent. To do so, it may be faster to choose wider, less direct lines that avoid other skiers than it would be to choose the most direct line at a slower speed, especially if there's a risk of braking unexpectedly.
+Most races will have right-of-way rules with respect to non-racer traffic on the ski hill. (In Canada, race organizers usually go by the [Alpine Responsibility Code](https://skisafety.ca/alpine-responsibility-code/).) You have to respect these rules and the safety of others without giving up unnecessary seconds on the descent. To do so, it may be faster to choose wider, less direct lines that avoid other skiers than it would be to choose the most direct line at a slower speed, especially if there's a risk of braking unexpectedly.
 
 </details>
