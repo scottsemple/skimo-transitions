@@ -20,7 +20,7 @@ Entering a transition zone is similar for every type. Review [the entrance proce
 
 <details>
 
-<summary>4. Lock both boots into downhill mode.</summary>
+<summary>Lock both boots into downhill mode.</summary>
 
 After placing your poles on the ground, move your hands straight to your boot levers. Lock them into downhill mode.
 
@@ -30,7 +30,7 @@ Do not stand up.
 
 <details>
 
-<summary>5. Open the left heel piece while using the right arm for balance.</summary>
+<summary>Open the left heel piece while using the right arm for balance.</summary>
 
 When your boots lock, your hands will be close to your bindings. Take advantage of their proximity. Reach back to open the heel piece of the left-hand binding. At the same time, extend your right arm for balance.
 
@@ -40,7 +40,7 @@ But don't try and open both bindings at once. That makes you crouch on two tip-t
 
 <details>
 
-<summary>6. Open the right heel piece while grabbing the left skin tip.</summary>
+<summary>Open the right heel piece while grabbing the left skin tip.</summary>
 
 Pull the left ski back toward you to grab the skin tip. As you grab the skin tip, unlock the heel piece of the right-hand binding.
 
@@ -48,7 +48,7 @@ Pull the left ski back toward you to grab the skin tip. As you grab the skin tip
 
 <details>
 
-<summary>7. Stand up on your right toe while ripping the left skin.</summary>
+<summary>Stand up on your right toe while ripping the left skin.</summary>
 
 As you stand up on your right leg, slide the left ski forward as your left arm pulls backward. Sliding the ski forward will help remove the whole skin without having the tail stick and get caught under the ski.
 
@@ -56,7 +56,7 @@ As you stand up on your right leg, slide the left ski forward as your left arm p
 
 <details>
 
-<summary>8. Stomp your heel into the open binding.</summary>
+<summary>Stomp your heel into the open binding.</summary>
 
 As the skin comes free and the left ski goes forward, stomp your foot into the binding.
 
@@ -64,7 +64,7 @@ As the skin comes free and the left ski goes forward, stomp your foot into the b
 
 <details>
 
-<summary>9. Keep your right heel out of the binding.</summary>
+<summary>Keep your right heel out of the binding.</summary>
 
 Stay on your right toe so that the right-hand binding doesn't lock prematurely. If it does, it'll make ripping the right skin more awkward. Keep your heel raised until you rip the right-hand skin.
 
@@ -74,7 +74,7 @@ Stay on your right toe so that the right-hand binding doesn't lock prematurely. 
 
 <details>
 
-<summary>10. Slide your right hand along the skin to find the tail.</summary>
+<summary>Slide your right hand along the skin to find the tail.</summary>
 
 While holding the skin tip with your left-hand, slide your right hand along the back of the skin until you can grab the tail. Extend your index finger along the back of the skin as you guide the tail toward the tip.
 
@@ -82,7 +82,7 @@ While holding the skin tip with your left-hand, slide your right hand along the 
 
 <details>
 
-<summary>11. Paste the tail of the skin to the tip.</summary>
+<summary>Paste the tail of the skin to the tip.</summary>
 
 Press the tip and tail together, but make sure the tail overhangs the tip by a couple of inches. The overhanging tail has two purposes:
 
@@ -93,7 +93,7 @@ Press the tip and tail together, but make sure the tail overhangs the tip by a c
 
 <details>
 
-<summary>12. Fold the skin once.</summary>
+<summary>Fold the skin once.</summary>
 
 Fold the skin neatly. Keep your skins organized to save time when you need to re-use them. Do not ball them up. Untangling skins costs more time than folding them.
 
@@ -101,7 +101,7 @@ Fold the skin neatly. Keep your skins organized to save time when you need to re
 
 <details>
 
-<summary>13. Let the skin fold a second time as it goes into your suit.</summary>
+<summary>Let the skin fold a second time as it goes into your suit.</summary>
 
 With the skin folded once and grasped in the middle, the skin will fold a second time as it goes into the skin pocket. Position the skin so that the overhanging tail is against your torso. That way your body heat will melt any snow or ice on the tail and your base layer will absorb the moisture. With the next application, there's a much better chance of good adhesion.
 
@@ -111,7 +111,7 @@ Do not put skins in your pack. Taking your pack off is a total waste of time, an
 
 <details>
 
-<summary>14. Stuff the first skin deep into the skin pocket, leaving room for the second skin.</summary>
+<summary>Stuff the first skin deep into the skin pocket, leaving room for the second skin.</summary>
 
 A neatly double-folded skin will leave enough room for a second. That way you can alternate pairs of skins and skin pockets from right to left with each transition.
 
@@ -133,13 +133,22 @@ Again, it comes back to time. Unlocking and relocking your toes with each transi
 
 ### Ripping the second skin
 
-15. **Pull the right ski back as you reach down to grab the right skin tip.**\
-    As with the left ski, pull the ski back and squat straight down to grab the skin rather than reaching forward. Squatting straight down is faster, easier, and more balanced.
-16. **As you rip the right skin, slide the ski forward and stomp into the binding.**
-17. #### Paste the tail of the skin to the tip, overhanging it by a couple of inches. <a href="#17-paste-the-tail-of-the-skin-to-the-tip-overhanging-it-by-a-couple-of-inches" id="17-paste-the-tail-of-the-skin-to-the-tip-overhanging-it-by-a-couple-of-inches"></a>
-18. **Fold the skin once.**
-19. #### Let the skin fold a second time as it goes into your suit. <a href="#19-let-the-skin-fold-a-second-time-as-it-goes-into-your-suit" id="19-let-the-skin-fold-a-second-time-as-it-goes-into-your-suit"></a>
+Ripping the second skin is the same process as the first. Here's a condensed version of the sequence.
 
-### [Exiting the transition zone](exiting-a-transition-zone.md)
+#### **Pull the right ski back as you reach down to grab the right skin tip.**
+
+As with the left ski, pull the ski back and squat straight down to grab the skin rather than reaching forward. Squatting straight down is faster, easier, and more balanced.
+
+#### **As you rip the right skin, slide the ski forward and stomp into the binding.**
+
+#### **Paste the tail of the skin to the tip, overhanging it by a couple of inches.** <a href="#17-paste-the-tail-of-the-skin-to-the-tip-overhanging-it-by-a-couple-of-inches" id="17-paste-the-tail-of-the-skin-to-the-tip-overhanging-it-by-a-couple-of-inches"></a>
+
+#### **Fold the skin once.**
+
+#### **Let the skin fold a second time as it goes into your suit.** <a href="#19-let-the-skin-fold-a-second-time-as-it-goes-into-your-suit" id="19-let-the-skin-fold-a-second-time-as-it-goes-into-your-suit"></a>
+
+Because you stuffed the first skin deep into the skin pocket, there should be ample room for the second skin beside the first.
+
+### ****[Exiting the transition zone](exiting-a-transition-zone.md)
 
 Exiting a transition zone is similar for every type. Review [the exit process](exiting-a-transition-zone.md) as part of practicing each transition.
