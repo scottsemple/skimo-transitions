@@ -11,7 +11,7 @@ At the top and bottom of each leg of a skimo race, racers have to adjust their e
 
 **Mastering each combination is essential in order to make transitions an almost-irrelevant part of a race.** If you screw them up, they add unnecessary time to your race. Your race result will haunt you with what could have been if you had practiced.
 
-**This is especially true in the sprint format.** A skimo sprint course takes between four and six minutes to complete. In such a short race, a botched transition can be the difference between a decent result and the back pf the pack.
+**This is especially true in the sprint format.** A skimo sprint course takes between four and six minutes to complete. In such a short race, a botched transition can be the difference between a decent result and the back of the pack.
 
 ## Skimo Transitions
 
