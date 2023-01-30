@@ -12,11 +12,11 @@ With enough practice with the right gear, a skin-to-ski transition can be done i
 
 The following method is one of many. Different body mechanics and levels of flexibility may require some adjustments. Practice it a lot, and then make it your own.
 
-### [Entering the transition zone](skin-to-ski.md#entering-a-transition-zone)
+### [Enter the transition zone](skin-to-ski.md#entering-a-transition-zone)
 
 Entering a transition zone is similar for every type. Review [the entrance process](entering-a-transition-zone.md) as part of practicing each transition type.
 
-### Ripping the first skin
+### Deal with your boots and bindings
 
 <details>
 
@@ -52,6 +52,8 @@ Pull the left ski back toward you to grab the skin tip. As you grab the skin tip
 
 </details>
 
+### Rip the first skin
+
 <details>
 
 <summary>Stand up on your right toe while ripping the left skin.</summary>
@@ -82,7 +84,7 @@ Stay on your right toe so that the right-hand binding doesn't lock prematurely. 
 
 </details>
 
-### Folding the first skin
+### Fold the first skin
 
 <details>
 
@@ -151,7 +153,7 @@ Again, it comes back to time. Unlocking and relocking your toes with each transi
 **So you decide: It's time or tendons.**
 {% endhint %}
 
-### Ripping the second skin
+### Rip the second skin
 
 Ripping the second skin is the same process as the first. Here's a condensed version of the sequence.
 
@@ -172,6 +174,8 @@ As with the left ski, pull the ski back and squat straight down to grab the skin
 ![](../.gitbook/assets/skin-to-ski-16-stomp-into-the-binding.png)
 
 </details>
+
+### Fold the second skin
 
 <details>
 
@@ -199,7 +203,7 @@ Because you stuffed the first skin deep into the skin pocket, there should be am
 
 </details>
 
-### ****[Exiting the transition zone](exiting-a-transition-zone.md)
+### ****[Exit the transition zone](exiting-a-transition-zone.md)
 
 Exiting a transition zone is similar for every type. Review [the exit process](exiting-a-transition-zone.md) as part of practicing each transition.
 
