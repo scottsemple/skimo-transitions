@@ -2,6 +2,9 @@
 description: >-
   Every training session on skis will require at least a handful of transitions.
   Use the time wisely, pay attention to the details, and refine your skills.
+cover: >-
+  https://images.unsplash.com/photo-1611596485841-6f1469c651ec?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxza2klMjB0b3VyaW5nfGVufDB8fHx8MTY3NTEwMDEyNA&ixlib=rb-4.0.3&q=80
+coverY: -15
 ---
 
 # How to practice
