@@ -2,7 +2,6 @@
 description: >-
   Regardless of the transition type, approaching a transition zone has a handful
   of common actions.
-coverY: 0
 ---
 
 # Entering a transition zone

@@ -2,9 +2,7 @@
 description: >-
   Do them well, and skimo transitions will be an insignificant portion of your
   race. Do them poorly, and you'll lose to that guy you can't stand.
-cover: >-
-  https://images.unsplash.com/photo-1586357111879-28b152bdb01c?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxiYWNrY291bnRyeSUyMHNraWluZ3xlbnwwfHx8fDE2NzUxMDAxNzU&ixlib=rb-4.0.3&q=80
-coverY: -38
+coverY: 0
 ---
 
 # Why they matter
