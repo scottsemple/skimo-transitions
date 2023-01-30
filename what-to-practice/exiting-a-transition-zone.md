@@ -12,6 +12,8 @@ description: >-
 
 <summary><strong>Zip up your suit as you reach down to grab your poles.</strong></summary>
 
+![](../.gitbook/assets/skin-to-ski-20-zip-up-your-suit.png)
+
 As your body goes down, the zipper goes up. If you miss zipping on the down, you can zip up as you stand up.
 
 </details>
@@ -19,6 +21,8 @@ As your body goes down, the zipper goes up. If you miss zipping on the down, you
 <details>
 
 <summary>Exit the transition with your poles in one hand.</summary>
+
+![](../.gitbook/assets/skin-to-ski-21-exit-the-transition.png)
 
 Start skiing away, but also...
 
@@ -28,9 +32,9 @@ Start skiing away, but also...
 
 <summary>Drink from your bottle.</summary>
 
-If the race is long enough that you'll need calories and water, exiting a transition is the time to get some. During the transition, your heart rate and respiration rate will ease. That makes it easier to drink than when you're working hard going uphill or down. Take advantage of it and take a big gulp as you exit the transition.
+If the race is long enough that you'll need calories and water, exiting a transition is the time to get some. During the transition, your heart rate and respiration rate will ease slightly. That makes it easier to drink than when you're working hard going uphill or down. Take advantage of it and take a big gulp as you exit the transition.
 
-(If you estimate your race time in the two- to three-hour range, and if you have a strong aerobic base, it probably won't be necessary to eat any solid food. You should be able to get enough calories with your hydration system. However, if your race will be longer, or if you've done too much high intensity, you may need to eat solid food when races get longer than two hours.)
+(If you estimate your race time in the two- to three-hour range, and if you have a strong aerobic base, it probably won't be necessary to eat any solid food. You should be able to get enough calories with just your hydration system. However, if your race will be longer, or if you've done too much high intensity in training, you may need to eat solid food when races get longer than two hours.)
 
 </details>
 
