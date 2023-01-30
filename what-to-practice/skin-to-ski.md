@@ -26,9 +26,9 @@ After placing your poles on the ground, move your hands straight to your boot le
 
 Do not stand up.
 
-![](../.gitbook/assets/skin-to-ski-04-lock-both-boots.png)
-
 </details>
+
+<figure><img src="../.gitbook/assets/skin-to-ski-04-lock-both-boots.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -38,9 +38,9 @@ When your boots lock, your hands will be close to your bindings. Take advantage 
 
 But don't try and open both bindings at once. That makes you crouch on two tip-toes which is unstable. Falling over wastes time.
 
-![](../.gitbook/assets/skin-to-ski-05-open-left-heel-piece.png)
-
 </details>
+
+<figure><img src="../.gitbook/assets/skin-to-ski-05-open-left-heel-piece.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
