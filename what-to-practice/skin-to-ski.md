@@ -22,17 +22,19 @@ Entering a transition zone is similar for every type. Review [the entrance proce
 
 <summary>Lock both boots into downhill mode.</summary>
 
+![](../.gitbook/assets/skin-to-ski-04-lock-both-boots.png)
+
 After placing your poles on the ground, move your hands straight to your boot levers. Lock them into downhill mode.
 
 Do not stand up.
 
 </details>
 
-<figure><img src="../.gitbook/assets/skin-to-ski-04-lock-both-boots.png" alt=""><figcaption></figcaption></figure>
-
 <details>
 
 <summary>Open the left heel piece while using the right arm for balance.</summary>
+
+![](../.gitbook/assets/skin-to-ski-05-open-left-heel-piece.png)
 
 When your boots lock, your hands will be close to your bindings. Take advantage of their proximity. Reach back to open the heel piece of the left-hand binding. At the same time, extend your right arm for balance.
 
@@ -40,11 +42,11 @@ But don't try and open both bindings at once. That makes you crouch on two tip-t
 
 </details>
 
-<figure><img src="../.gitbook/assets/skin-to-ski-05-open-left-heel-piece.png" alt=""><figcaption></figcaption></figure>
-
 <details>
 
 <summary>Open the right heel piece while grabbing the left skin tip.</summary>
+
+![](../.gitbook/assets/skin-to-ski-06-open-right-heel-piece.png)
 
 Pull the left ski back toward you to grab the skin tip. As you grab the skin tip, unlock the heel piece of the right-hand binding.
 
@@ -54,6 +56,8 @@ Pull the left ski back toward you to grab the skin tip. As you grab the skin tip
 
 <summary>Stand up on your right toe while ripping the left skin.</summary>
 
+![](../.gitbook/assets/skin-to-ski-07-stand-up-on-right-toe.png)
+
 As you stand up on your right leg, slide the left ski forward as your left arm pulls backward. Sliding the ski forward will help remove the whole skin without having the tail stick and get caught under the ski.
 
 </details>
@@ -62,6 +66,8 @@ As you stand up on your right leg, slide the left ski forward as your left arm p
 
 <summary>Stomp your heel into the open binding.</summary>
 
+![](../.gitbook/assets/skin-to-ski-08-stomp-your-heel.png)
+
 As the skin comes free and the left ski goes forward, stomp your foot into the binding.
 
 </details>
@@ -69,6 +75,8 @@ As the skin comes free and the left ski goes forward, stomp your foot into the b
 <details>
 
 <summary>Keep your right heel out of the binding.</summary>
+
+![](../.gitbook/assets/skin-to-ski-09-right-heel-out.png)
 
 Stay on your right toe so that the right-hand binding doesn't lock prematurely. If it does, it'll make ripping the right skin more awkward. Keep your heel raised until you rip the right-hand skin.
 
@@ -80,6 +88,8 @@ Stay on your right toe so that the right-hand binding doesn't lock prematurely. 
 
 <summary>Slide your right hand along the skin to find the tail.</summary>
 
+![](../.gitbook/assets/skin-to-ski-10-slide-your-right-hand.png)
+
 While holding the skin tip with your left-hand, slide your right hand along the back of the skin until you can grab the tail. Extend your index finger along the back of the skin as you guide the tail toward the tip.
 
 </details>
@@ -87,6 +97,8 @@ While holding the skin tip with your left-hand, slide your right hand along the 
 <details>
 
 <summary>Paste the tail of the skin to the tip.</summary>
+
+![](../.gitbook/assets/skin-to-ski-11-paste-the-tail.png)
 
 Press the tip and tail together, but make sure the tail overhangs the tip by a couple of inches. The overhanging tail has two purposes:
 
@@ -99,6 +111,8 @@ Press the tip and tail together, but make sure the tail overhangs the tip by a c
 
 <summary>Fold the skin once.</summary>
 
+![](../.gitbook/assets/skin-to-ski-12-fold-the-skin-once.png)
+
 Fold the skin neatly. Keep your skins organized to save time when you need to re-use them. Do not ball them up. Untangling skins costs more time than folding them.
 
 </details>
@@ -106,6 +120,8 @@ Fold the skin neatly. Keep your skins organized to save time when you need to re
 <details>
 
 <summary>Let the skin fold a second time as it goes into your suit.</summary>
+
+![](../.gitbook/assets/skin-to-ski-13-fold-a-second-time.png)
 
 With the skin folded once and grasped in the middle, the skin will fold a second time as it goes into the skin pocket. Position the skin so that the overhanging tail is against your torso. That way your body heat will melt any snow or ice on the tail and your base layer will absorb the moisture. With the next application, there's a much better chance of good adhesion.
 
@@ -139,19 +155,49 @@ Again, it comes back to time. Unlocking and relocking your toes with each transi
 
 Ripping the second skin is the same process as the first. Here's a condensed version of the sequence.
 
-#### **Pull the right ski back as you reach down to grab the right skin tip.**
+<details>
+
+<summary>Pull the right ski back as you reach down to grab the right skin tip.</summary>
+
+![](../.gitbook/assets/skin-to-ski-15-pull-the-right-ski-back.png)
 
 As with the left ski, pull the ski back and squat straight down to grab the skin rather than reaching forward. Squatting straight down is faster, easier, and more balanced.
 
-#### **As you rip the right skin, slide the ski forward and stomp into the binding.**
+</details>
 
-#### **Paste the tail of the skin to the tip, overhanging it by a couple of inches.** <a href="#17-paste-the-tail-of-the-skin-to-the-tip-overhanging-it-by-a-couple-of-inches" id="17-paste-the-tail-of-the-skin-to-the-tip-overhanging-it-by-a-couple-of-inches"></a>
+<details>
 
-#### **Fold the skin once.**
+<summary>As you rip the right skin, slide the ski forward and stomp into the binding.</summary>
 
-#### **Let the skin fold a second time as it goes into your suit.** <a href="#19-let-the-skin-fold-a-second-time-as-it-goes-into-your-suit" id="19-let-the-skin-fold-a-second-time-as-it-goes-into-your-suit"></a>
+![](../.gitbook/assets/skin-to-ski-16-stomp-into-the-binding.png)
+
+</details>
+
+<details>
+
+<summary>Paste the tail of the skin to the tip, overhanging it by a couple of inches.</summary>
+
+![](../.gitbook/assets/skin-to-ski-17-paste-the-tail.png)
+
+</details>
+
+<details>
+
+<summary>Fold the skin once.</summary>
+
+![](../.gitbook/assets/skin-to-ski-18-fold-the-skin-once.png)
+
+</details>
+
+<details>
+
+<summary>Let the skin fold a second time as it goes into your suit.</summary>
+
+![](../.gitbook/assets/skin-to-ski-19-fold-a-second-time.png)
 
 Because you stuffed the first skin deep into the skin pocket, there should be ample room for the second skin beside the first.
+
+</details>
 
 ### ****[Exiting the transition zone](exiting-a-transition-zone.md)
 
