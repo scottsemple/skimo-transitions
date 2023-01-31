@@ -4,7 +4,7 @@ description: >-
   downhill skiing and do it in less than 30 seconds to be competitive.
 ---
 
-# Skin to Ski
+# Skin to Ski: Single Rips
 
 With enough practice with the right gear, a skin-to-ski transition can be done in less than 20 seconds. Think of 40 seconds as a maximum.
 
@@ -12,7 +12,7 @@ With enough practice with the right gear, a skin-to-ski transition can be done i
 
 The following method is one of many. Different body mechanics and levels of flexibility may require some adjustments. Practice it a lot, and then make it your own.
 
-### [Enter the transition zone](skin-to-ski.md#entering-a-transition-zone)
+### [Enter the transition zone](entering-a-transition-zone.md)
 
 Entering a transition zone is similar for every type. Review [the entrance process](entering-a-transition-zone.md) as part of practicing each transition type.
 
