@@ -1,9 +1,7 @@
 # Table of contents
 
-## Introduction
-
 * [Why they matter](README.md)
-* [How to practice](introduction/how-to-practice.md)
+* [How to practice](how-to-practice.md)
 
 ## What to practice
 
