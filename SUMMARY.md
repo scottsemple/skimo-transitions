@@ -16,7 +16,7 @@
 
 ***
 
-* [Why so much detail for something so short?](why-so-much-detail-for-something-so-short.md)
+* [Why so much detail?](why-so-much-detail-for-something-so-short.md)
 
 ## More info on Skimo Racing
 
