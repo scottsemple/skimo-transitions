@@ -18,6 +18,6 @@
 
 * [Why so much detail?](why-so-much-detail-for-something-so-short.md)
 
-## More info on Skimo Racing
+## More info on Skimo Racing <a href="#more-info" id="more-info"></a>
 
 * [The Skimo Survival Guide (is coming soon)](https://www.skimosurvival.com)
