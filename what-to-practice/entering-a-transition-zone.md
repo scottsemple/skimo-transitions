@@ -2,6 +2,8 @@
 description: >-
   Regardless of the transition type, approaching a transition zone has a handful
   of common actions.
+cover: ../.gitbook/assets/skin-to-ski-01-get-ready.png
+coverY: 71
 ---
 
 # Entering a transition zone

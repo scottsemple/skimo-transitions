@@ -2,6 +2,8 @@
 description: >-
   At the top of each climb, a skimo racer must switch from uphill skinning to
   downhill skiing and do it in less than 30 seconds to be competitive.
+cover: ../.gitbook/assets/skin-to-ski-08-stomp-your-heel.png
+coverY: 49
 ---
 
 # Skin to Ski: Single Rips

@@ -3,6 +3,9 @@ description: >-
   After the final ascent, the change from skinning to skiing is unique. Instead
   of two single-skin rips, it's much faster to double-rip both skins and stuff
   the sticky mess in your suit.
+cover: >-
+  ../.gitbook/assets/skin-to-ski-double-rip-18s2-rip-left-skin-grab-right-skin.webp
+coverY: 92
 ---
 
 # Skin to Ski: Double Rip
