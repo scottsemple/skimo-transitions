@@ -5,7 +5,7 @@ description: >-
   the sticky mess in your suit.
 cover: >-
   ../.gitbook/assets/skin-to-ski-double-rip-18s2-rip-left-skin-grab-right-skin.webp
-coverY: 92
+coverY: 16.84893419833179
 ---
 
 # Skin to Ski: Double Rip

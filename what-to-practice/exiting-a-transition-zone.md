@@ -3,7 +3,7 @@ description: >-
   Regardless of the transition type, leaving a transition zone has a handful of
   common actions.
 cover: ../.gitbook/assets/skin-to-ski-21-exit-the-transition.png
-coverY: 0
+coverY: 33.549582947173306
 ---
 
 # Exiting a transition zone
