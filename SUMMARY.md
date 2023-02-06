@@ -21,4 +21,3 @@
 ## More info on Skimo Racing <a href="#more-info" id="more-info"></a>
 
 * [The Skimo Survival Guide (is coming soon)](https://www.skimosurvival.com)
-* [The Skimo Survival Guide (is coming soon)](https://www.skimosurvival.com)
