@@ -18,7 +18,7 @@ The following method is one of many. Different body mechanics and levels of flex
 
 Entering a transition zone is similar for every type. Review [the entrance process](entering-a-transition-zone.md) as part of practicing each transition type.
 
-### Deal with the first ski
+### Pick up the first ski
 
 <details>
 
@@ -88,7 +88,7 @@ As you bend over for the next ski, slide your left thumb along the skin and past
 
 </details>
 
-### Put on the first ski
+### Put on the first ski, pick up the second
 
 <details>
 

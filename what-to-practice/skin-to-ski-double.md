@@ -165,5 +165,3 @@ Exiting a transition zone is similar for every type. Review [the exit process](e
 The following video breaks down the Double Rip transition according to the above instructions.
 
 {% embed url="https://youtu.be/ksK9wtdAd1A" %}
-The Skin to Ski transition with double skin rips
-{% endembed %}
