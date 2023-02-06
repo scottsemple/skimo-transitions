@@ -12,21 +12,35 @@ coverY: 33.549582947173306
 
 <details>
 
-<summary><strong>Zip up your suit as you reach down to grab your poles.</strong></summary>
+<summary>Grab your poles (if you haven't already.)</summary>
 
-![](../.gitbook/assets/skin-to-ski-20-zip-up-your-suit.png)
+In the Skin to Ski transitions, grab your poles after you've stuffed your last skin.
 
-As your body goes down, the zipper goes up. If you miss zipping on the down, you can zip up as you stand up.
+In the Ski to Skin transition, you can pick your poles up as you stand up from dealing with your last binding.
 
 </details>
 
 <details>
 
-<summary>Exit the transition with your poles in one hand.</summary>
+<summary><strong>Zip up your suit as you exit.</strong></summary>
+
+![](../.gitbook/assets/skin-to-ski-20-zip-up-your-suit.png)
+
+Whether skinning or skiing, zip up your suit as you leave the transition.
+
+</details>
+
+<details>
+
+<summary>Get your poles into position while you're on the move.</summary>
 
 ![](../.gitbook/assets/skin-to-ski-21-exit-the-transition.png)
 
-Start skiing away, but also...
+Start working on your pole straps after you've left the transition.
+
+It's tempting to avoid using pole straps and just start skiing or skinning. But if you drop a pole while skiing, the time cost will be greater than slower skiing while putting your wrist loops on. And if skinning, you won't be able to use your poles as effectively with hand strength alone.
+
+I've always opted for using pole straps than not. I'd rather spend allittle time getting into my wrist loops than waste time backtracking to get a dropped pole or relying on grip strength to push forward.
 
 </details>
 
@@ -42,20 +56,20 @@ If the race is long enough that you'll need calories and water, exiting a transi
 
 <details>
 
-<summary>Get your poles into position while skiing downhill.</summary>
+<summary>Start skiing/skinning to the next transition.</summary>
 
-After taking a swig from your bottle, start working on your pole straps.
 
-It's tempting to avoid using pole straps and just start skiing. But if you drop a pole, the time cost will be greater than slower skiing while putting your wrist loops on. I've always opted for the latter rather than risk dropping a pole. I'd rather ski slightly slower while putting wrist loops on than waste time backtracking to get a dropped pole. (If you ditch any gear on a skimo course, you'll be penalized.)
 
 </details>
 
-<details>
+{% hint style="info" %}
+**If skiing, beware of recreational skiers.**
 
-<summary>Ski like hell down to the next transition.</summary>
+Most races will have right-of-way rules with respect to non-racer traffic on piste. (In Canada, race organizers usually go by the [Alpine Responsibility Code](https://skisafety.ca/alpine-responsibility-code/).) You have to respect these rules and the safety of others without giving up unnecessary seconds on the descent. To do so, it may be faster to choose wider, less direct ski lines that avoid other skiers than it would be to choose the most direct line at a slower speed, especially if there's a risk of braking unexpectedly.
+{% endhint %}
 
-Once you're out of the transition and have your poles in-hand, ski as fast as possible to the next transition. But be careful.
+{% hint style="info" %}
+**If skinning, settle into a strong, steady pace.**
 
-Most races will have right-of-way rules with respect to non-racer traffic on the ski hill. (In Canada, race organizers usually go by the [Alpine Responsibility Code](https://skisafety.ca/alpine-responsibility-code/).) You have to respect these rules and the safety of others without giving up unnecessary seconds on the descent. To do so, it may be faster to choose wider, less direct lines that avoid other skiers than it would be to choose the most direct line at a slower speed, especially if there's a risk of braking unexpectedly.
-
-</details>
+Similar to the start line, don't let the short recovery of the bottom transition fool you into thinking you can maintain a faster pace. Skin uphill at **the fastest pace you can **_**maintain to the top**_, not the fastest pace that you can maintain for a few seconds.
+{% endhint %}
