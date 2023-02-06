@@ -2,6 +2,7 @@
 
 * [Why they matter](README.md)
 * [How to practice](how-to-practice.md)
+* [Why so much detail?](why-so-much-detail-for-something-so-short.md)
 
 ## What to practice
 
@@ -13,10 +14,6 @@
 * [Boot to Skin](what-to-practice/boot-to-skin.md)
 * [Boot to Ski](what-to-practice/boot-to-ski.md)
 * [Exiting a transition zone](what-to-practice/exiting-a-transition-zone.md)
-
-***
-
-* [Why so much detail?](why-so-much-detail-for-something-so-short.md)
 
 ## More info on Skimo Racing <a href="#more-info" id="more-info"></a>
 
