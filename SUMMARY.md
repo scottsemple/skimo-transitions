@@ -2,7 +2,6 @@
 
 * [Why they matter](README.md)
 * [How to practice](how-to-practice.md)
-* [Why so much detail?](why-so-much-detail-for-something-so-short.md)
 
 ## What to practice
 
