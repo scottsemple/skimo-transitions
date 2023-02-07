@@ -128,7 +128,7 @@ Exiting a transition zone is similar for every type. Review [the exit process](e
 
 ## Watch the video
 
-The following video breaks down the Skin to Boot transition according to the above instructions.
+The following video breaks down the Skin to Boot skimo transition according to the above instructions.
 
 {% embed url="https://youtu.be/mO84972ZjUE" %}
 The Skin to Boot skimo transition

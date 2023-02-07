@@ -202,7 +202,7 @@ Exiting a transition zone is similar for every type. Review [the exit process](e
 
 ## Watch the video
 
-The following video breaks down the Ski to Skin transition according to the above instructions.
+The following video breaks down the Ski to Skin skimo transition according to the above instructions.
 
 {% embed url="https://youtu.be/zu_FsBWduMs" %}
 The Ski to Skin skimo transition

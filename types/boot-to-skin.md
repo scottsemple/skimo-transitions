@@ -127,7 +127,7 @@ As soon as you lock the left-hand toe piece, immediately go into a [single](http
 
 ## Watch the video
 
-The following video breaks down the Boot to Skin transition according to the above instructions.
+The following video breaks down the Boot to Skin skimo transition according to the above instructions.
 
 {% embed url="https://youtu.be/FxukMAWo6gI" %}
 The Boot to Skin skimo transition

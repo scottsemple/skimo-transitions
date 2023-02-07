@@ -162,7 +162,7 @@ Exiting a transition zone is similar for every type. Review [the exit process](e
 
 ## Watch the video
 
-The following video breaks down the Double Rip transition according to the above instructions.
+The following video breaks down the Double Rip skimo transition according to the above instructions.
 
 {% embed url="https://youtu.be/ksK9wtdAd1A" %}
 The Skin to Ski skimo transition with double skin rips
