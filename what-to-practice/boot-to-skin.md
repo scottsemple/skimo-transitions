@@ -103,15 +103,27 @@ Having your skis between your legs will make it easier to step into your binding
 
 ## What if it's a Boot to Ski?
 
-What if the bootpack is followed by a ski section?
+What if the bootpack ends at a ridge top or couloir?
 
-Sometimes a bootpack will end at the top of a ridge or couloir. But **even if there's a ski section immediately after the bootpack, your skins stay on your skis during the bootpack.** So pack your skis as usual.
+<details>
 
-Why?
+<summary>Use the same process to start the transition. Leave your skins on.</summary>
 
-**Keeping your skins on through a bootpack section makes your skis easier to manage** at the next transition when putting them on the ground. With skins on, **your skis are less likely to slide away from you** and possibly ruin your race if they head downhill without you.
+Keeping your skins on through a bootpack section makes your skis easier to manage at the next transition when putting them on the ground. With skins on, your skis are less likely to slide away from you and possibly ruin your race if they head downhill without you.
 
-If the bootpack ends with a ski section, **put your skis on as usual, and then immediately do a** [**single**](https://www.skimotransitions.com/what-to-practice/skin-to-ski#rip-the-first-skin) **or** [**double**](https://www.skimotransitions.com/what-to-practice/skin-to-ski-double#rip-the-first-skin) **rip**
+And you don't lose any time by moving the rips to the top of the bootpack instead of the bottom.
+
+</details>
+
+<details>
+
+<summary>Rip your skins after you step into your toe pieces.</summary>
+
+At the end of the bootpack, get into your bindings as if you were going to start skinning. But don't stand up.
+
+As soon as you lock the left-hand toe piece, immediately go into a [single](https://www.skimotransitions.com/what-to-practice/skin-to-ski#rip-the-first-skin) or [double](https://www.skimotransitions.com/what-to-practice/skin-to-ski-double#rip-the-first-skin) rip (whichever is required.)
+
+</details>
 
 ## Watch the video
 
