@@ -110,7 +110,7 @@ Why?
 
 **Keeping your skins on through a bootpack section makes your skis easier to manage** at the next transition when putting them on the ground. With skins on, **your skis are less likely to slide away from you** and possibly ruin your race if they head downhill without you.
 
-If the bootpack ends with a ski section, **put your skis on as usual, and then immediately do a** [**single**](skin-to-ski.md) **or** [**double**](skin-to-ski-double.md) **rip**.
+If the bootpack ends with a ski section, **put your skis on as usual, and then immediately do a** [**single**](https://www.skimotransitions.com/what-to-practice/skin-to-ski#rip-the-first-skin) **or** [**double**](https://www.skimotransitions.com/what-to-practice/skin-to-ski-double#rip-the-first-skin) **rip**.
 {% endhint %}
 
 ## Watch the video
