@@ -101,8 +101,9 @@ Having your skis between your legs will make it easier to step into your binding
 
 </details>
 
-{% hint style="info" %}
-**What if the bootpack is followed by a ski section?**
+## What if it's a Boot to Ski?
+
+What if the bootpack is followed by a ski section?
 
 Sometimes a bootpack will end at the top of a ridge or couloir. But **even if there's a ski section immediately after the bootpack, your skins stay on your skis during the bootpack.** So pack your skis as usual.
 
@@ -110,8 +111,7 @@ Why?
 
 **Keeping your skins on through a bootpack section makes your skis easier to manage** at the next transition when putting them on the ground. With skins on, **your skis are less likely to slide away from you** and possibly ruin your race if they head downhill without you.
 
-If the bootpack ends with a ski section, **put your skis on as usual, and then immediately do a** [**single**](https://www.skimotransitions.com/what-to-practice/skin-to-ski#rip-the-first-skin) **or** [**double**](https://www.skimotransitions.com/what-to-practice/skin-to-ski-double#rip-the-first-skin) **rip**.
-{% endhint %}
+If the bootpack ends with a ski section, **put your skis on as usual, and then immediately do a** [**single**](https://www.skimotransitions.com/what-to-practice/skin-to-ski#rip-the-first-skin) **or** [**double**](https://www.skimotransitions.com/what-to-practice/skin-to-ski-double#rip-the-first-skin) **rip**
 
 ## Watch the video
 

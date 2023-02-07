@@ -11,7 +11,7 @@
 * [Ski to Skin](what-to-practice/ski-to-skin.md)
 * [Skin to Boot](what-to-practice/skin-to-boot.md)
 * [Boot to Skin](what-to-practice/boot-to-skin.md)
-* [Boot to Ski](https://www.skimotransitions.com/what-to-practice/boot-to-skin#lock-the-left-hand-toe-piece-and-start-skinning.)
+* [Boot to Ski](https://app.gitbook.com/o/K6NGZjvGMI5jSKgcBx1C/s/Qa6KRAsxSLGkjZJjRsD6/\~/changes/51/what-to-practice/boot-to-skin#what-if-its-a-boot-to-ski)
 * [Exiting a transition zone](what-to-practice/exiting-a-transition-zone.md)
 
 ## More info on Skimo Racing <a href="#more-info" id="more-info"></a>
