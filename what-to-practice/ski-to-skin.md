@@ -196,7 +196,7 @@ As you step into the left-hand toe piece, put your left hand on your poles so yo
 
 </details>
 
-### &#x20;[Exit the transition zone](exiting-a-transition-zone.md)
+### [Exit the transition zone](exiting-a-transition-zone.md)
 
 Exiting a transition zone is similar for every type. Review [the exit process](exiting-a-transition-zone.md) as part of practicing each transition.
 
@@ -205,5 +205,5 @@ Exiting a transition zone is similar for every type. Review [the exit process](e
 The following video breaks down the Ski to Skin transition according to the above instructions.
 
 {% embed url="https://youtu.be/zu_FsBWduMs" %}
-The Ski to Skin Transition
+The Ski to Skin skimo transition
 {% endembed %}
