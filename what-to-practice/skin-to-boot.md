@@ -19,7 +19,7 @@ The following method is one of many. Different body mechanics and levels of flex
 Entering a transition zone is similar for every type. Review [the entrance process](entering-a-transition-zone.md) as part of practicing each transition type.
 
 {% hint style="info" %}
-**Note:** The [Skin to Boot](skin-to-boot.md) transition doesn't require you to unzip your suit. Your skins stay on your skis, so there's no need to open your suit.
+**Exception:** The Skin to Boot transition doesn't require you to unzip your suit. Your skins stay on your skis, so there's no need to open your suit.
 {% endhint %}
 
 ### Get out of your bindings
