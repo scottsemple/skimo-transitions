@@ -29,9 +29,13 @@ Entering a transition zone is similar for every type. Review [the entrance proce
 This exception could also be a good argument for having your approach hand always be your right for every transition.
 {% endhint %}
 
+### Pop the hook
+
 <details>
 
 <summary>Reach for the ski hook with your left hand.</summary>
+
+![](../.gitbook/assets/boot-to-skin-05s2-reach-for-hook.webp)
 
 The tip of the ski hook will be pointing to your left-hand side. Because of that, it's easier to pop the hook with your left hand than it is with your right.
 
@@ -43,13 +47,19 @@ Also, because the ski holster is on the left-hand side of most packs, you can gr
 
 <summary>Pop the hook, grab your skis, and "unroll" your left arm.</summary>
 
+![](../.gitbook/assets/boot-to-skin-08s1-unroll-left-arm.webp)
+
 With the ski hook popped, let your left arm "unroll" in front of you. It'll feel awkward for your wrist at first. The end position is the same one you started in when you holstered your skis. Your palm will be up and your thumb will be pointing outward.
 
 </details>
 
+### Unholster your skis
+
 <details>
 
 <summary>Unholster the skis with your right hand.</summary>
+
+![](../.gitbook/assets/boot-to-skin-08s2-unholster-skis.webp)
 
 As your skis come around your body, grab them at the waist with your right hand, and pull them out of the holster.
 
@@ -59,15 +69,19 @@ As your skis come around your body, grab them at the waist with your right hand,
 
 <summary>As you bend over, put your skis between your legs.</summary>
 
+![](../.gitbook/assets/boot-to-skin-09s-skis-between-legs.webp)
+
 Having your skis between your legs will make it easier to step into your bindings. Put one ski in each hand as you put them on the ground.
 
 </details>
+
+### Get into your bindings
 
 <details>
 
 <summary>Put your right hand on your poles as you step into the right-hand ski.</summary>
 
-
+![](../.gitbook/assets/boot-to-skin-10s-grab-poles.webp)
 
 </details>
 
@@ -75,7 +89,7 @@ Having your skis between your legs will make it easier to step into your binding
 
 <summary>Lock the right-hand toe piece as you step into the left.</summary>
 
-
+![](../.gitbook/assets/boot-to-skin-12s-lock-right-toe.webp)
 
 </details>
 
@@ -83,6 +97,26 @@ Having your skis between your legs will make it easier to step into your binding
 
 <summary>Lock the left-hand toe piece and start skinning.</summary>
 
-
+![](../.gitbook/assets/boot-to-skin-14s-lock-left-toe.webp)
 
 </details>
+
+{% hint style="info" %}
+**What if the bootpack is followed by a ski section?**
+
+Sometimes a bootpack will end at the top of a ridge or couloir. But **even if there's a ski section immediately after the bootpack, your skins stay on your skis during the bootpack.** So pack your skis as usual.
+
+Why?
+
+**Keeping your skins on through a bootpack section makes your skis easier to manage** at the next transition when putting them on the ground. With skins on, **your skis are less likely to slide away from you** and possibly ruin your race if they head downhill without you.
+
+If the bootpack ends with a ski section, **put your skis on as usual, and then immediately do a** [**single**](skin-to-ski.md) **or** [**double**](skin-to-ski-double.md) **rip**.
+{% endhint %}
+
+## Watch the video
+
+The following video breaks down the Boot to Skin transition according to the above instructions.
+
+{% embed url="https://youtu.be/FxukMAWo6gI" %}
+The Boot to Skin skimo transition
+{% endembed %}
