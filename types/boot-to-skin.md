@@ -101,6 +101,14 @@ Having your skis between your legs will make it easier to step into your binding
 
 </details>
 
+## Watch the video
+
+The following video breaks down the Boot to Skin skimo transition according to the above instructions.
+
+{% embed url="https://youtu.be/FxukMAWo6gI" %}
+The Boot to Skin skimo transition
+{% endembed %}
+
 ## What if it's a Boot to Ski?
 
 What if the bootpack ends at a ridge top or couloir?
@@ -124,11 +132,3 @@ At the end of the bootpack, get into your bindings as if you were going to start
 As soon as you lock the left-hand toe piece, immediately go into a [single](https://www.skimotransitions.com/what-to-practice/skin-to-ski#rip-the-first-skin) or [double](https://www.skimotransitions.com/what-to-practice/skin-to-ski-double#rip-the-first-skin) rip (whichever is required.)
 
 </details>
-
-## Watch the video
-
-The following video breaks down the Boot to Skin skimo transition according to the above instructions.
-
-{% embed url="https://youtu.be/FxukMAWo6gI" %}
-The Boot to Skin skimo transition
-{% endembed %}
